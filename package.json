@@ -1,0 +1,15 @@
+{
+  "name": "008-advent-of-code-2022",
+  "version": "1.0.0",
+  "description": "My Advent of Code 2022 solutions",
+  "main": "index.js",
+  "author": "Vindhya Raviraj",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^8.29.0",
+    "eslint-config-airbnb": "^19.0.4",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-prettier": "^4.2.1",
+    "prettier": "^2.8.0"
+  }
+}
